@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sphere</string>
+    <string name="sphere_description">A red sphere</string>
+    <string name="play">Играть</string>
+    <string name="exit">Выход</string>
+    <string name="back">Назад</string>
+</resources>
